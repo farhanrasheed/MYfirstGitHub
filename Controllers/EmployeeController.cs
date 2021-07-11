@@ -10,6 +10,7 @@ namespace MYTHIRDLECTURE1.Controllers
     public class EmployeeController : Controller
     {
         private readonly CompanyContext context;
+        //my first github push
 
         public EmployeeController(CompanyContext context)
         {
